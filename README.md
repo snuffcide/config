@@ -1,0 +1,2 @@
+# config
+game configs
